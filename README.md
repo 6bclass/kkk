@@ -1,2 +1,2 @@
 # kkk
-Free free free &amp; fast fast fast vpn
+free but fast
