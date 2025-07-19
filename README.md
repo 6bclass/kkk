@@ -1,13 +1,13 @@
 # [云游VPN]
 
-**[小众稳定，非常简单，速度极快，可通过共享账号免费使用。显示地区：巴拿马华人开发者，对国内稳定性友好！]**
+**告别机场繁琐操作，非常简单，速度极快，可通过共享账号免费使用。显示地区：巴拿马华人开发者，对国内稳定性友好！**
 
 ---
 
 ## 🖼️ 速度测试截图
 
 *   **Youtube上海100M电信宽度测试**
-    ![主界面截图](https://github.com/6bclass/kkk/blob/main/87579.png)
+    ![主界面和youtube速度测试](https://github.com/6bclass/kkk/blob/main/87579.png)
 
 ---
 
@@ -26,6 +26,6 @@
 *   **官方网站下载：**  
     👉 [点击前往下载页面](https://v40yycdn.xyz/)
 *   **Github下载：**  
-    👉 [下载链接] (https://github.com/6bclass/kkk/blob/main/yy_windows_installer.exe)  
+    👉 [下载链接](https://raw.githubusercontent.com/6bclass/kkk/refs/heads/main/yy_windows_installer.exe)  
 
 ---
