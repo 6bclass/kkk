@@ -27,12 +27,12 @@
 
 > **立即体验的丝滑网络！**
 
-*   **官方网站下载：**  
-    👉 [点击前往下载页面](https://v40yycdn.xyz/)
 *   **Github下载：**  
     👉 [Windows下载链接](https://raw.githubusercontent.com/6bclass/kkk/refs/heads/main/yy_windows_installer.exe)
-*   **MAC OS网盘下载：**  
-    👉 [因特尔芯片下载链接](https://bobois.fun/#/s/YvqsZ)
-    👉 [M1M2芯片下载链接](https://bobois.fun/#/s/bgZcr)    
+*   **MAC OS下载：**  
+    👉 [MacOS下载链接](https://v40yycdn.xyz/dl/yy_mac.zip)
+
+*   **官方网站：**  
+    👉 [点击前往下载页面](https://v40yycdn.xyz/)    
 
 ---
