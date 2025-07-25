@@ -7,10 +7,10 @@
 ## 🖼️ 速度测试截图
 
 *   **Youtube上海100M电信宽度测试**
-    ![主界面和youtube速度测试](https://github.com/6bclass/kkk/blob/main/87579.png)
+    ![主界面和youtube速度测试](https://github.com/6bclass/kkk/blob/main/112489.png)
     
 *   **Youtube上海1000M电信宽度测试**
-    ![主界面和youtube速度测试](https://github.com/6bclass/kkk/blob/main/112489.png)    
+    ![主界面和youtube速度测试](https://github.com/6bclass/kkk/blob/main/224746.png?raw=true)    
 
 ---
 
