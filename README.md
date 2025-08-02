@@ -25,10 +25,10 @@
 
 ## 🔽 下载与安装
 
-> **立即体验的丝滑网络！**
+> **立即体验隐私网络！**
 
-*   **Github下载：**  
-    👉 [Windows下载链接](blob:https://github.com/75b6714f-d570-4b1d-86b5-41a2c903ed6d)
+*   **Windows下载：**  
+    👉 [Windows下载链接](https://v40yycdn.xyz/dl/yy_windows_installer.exe)
 *   **MAC OS下载：**  
     👉 [MacOS下载链接](https://v40yycdn.xyz/dl/yy_mac.zip)
 
