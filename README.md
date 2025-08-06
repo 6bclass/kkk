@@ -14,9 +14,9 @@
 
 ---
 
-## 📱 共享账号，最后验证：*2025-08-04*
+## 📱 共享账号，最后验证：*2025-08-06*
 
-*   **[重点]** 大家只在 **桌面版** 上使用 **[不要在云游的chrome端使用，会被挤下线，还可能被封号]**。
+*   **[重点]** **[不可在云游的chrome端使用，会被挤下线，可能被封号]**。
 *   **[点击这里邀请链接，注册一个账号为共享账号增加时长谢谢！](https://reward.v40yycdn.xyz/?inviter=6bclass@qq.com)**
     **找到这里的都是有缘人，低调使用，遇到问题发Issues！**
     * **账号**   6bclass@qq.com  
@@ -32,7 +32,7 @@
 *   **MAC OS下载：**  
     👉 [MacOS下载链接](https://v40yycdn.xyz/dl/yy_mac.zip)
 
-*   **官方网站：**  
-    👉 [点击前往下载页面](https://v40yycdn.xyz/)    
+*   **Android下载：**  
+    👉 [Android下载链接](https://v40yycdn.xyz/dl/yy_s5.apk)    
 
 ---
